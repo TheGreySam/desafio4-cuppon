@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.logo {
+    width: 120pt;
+}
+
+.bg-cuppon {
+    background-color: #28A745;
+}
+
+.precio {
+    color: #28A745;
+    font-weight: 700;
+    font-size: large;
+}
